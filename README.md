@@ -22,7 +22,6 @@
 
 \title{Studi Ablasi RNN, LSTM, dan GRU dibandingkan ANN untuk Prediksi Trafik Seluler Kota Milan}
 
-% Satu blok per anggota (maks. 3). Hapus blok yang tidak dipakai.
 \author{
 \IEEEauthorblockN{Grace Victoria Simamora}
 \IEEEauthorblockA{NIM 124400081\\
